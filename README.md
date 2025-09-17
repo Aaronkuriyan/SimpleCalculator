@@ -3,7 +3,8 @@ This is my first repository
 <br>
 Author : Aaron Kuriyan
 <br>
-A tiny calculator web app (HTML/CSS/JS). 
+A tiny calculator web app (HTML/CSS/JS).
+<br>
 Live demo: https://USERNAME.github.io/SimpleCalculator/
 
 ## Features
