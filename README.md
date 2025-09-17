@@ -3,7 +3,8 @@ This is my first repository
 <br>
 Author : Aaron Kuriyan
 <br>
-A tiny calculator web app (HTML/CSS/JS). Live demo: https://USERNAME.github.io/REPO_NAME/
+A tiny calculator web app (HTML/CSS/JS). 
+Live demo: https://USERNAME.github.io/SimpleCalculator/
 
 ## Features
 - Addition, subtraction, multiplication, division
